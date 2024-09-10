@@ -51,8 +51,12 @@ Upon completion of training, the model demonstrated impressive performance on th
 </ul>
 <br>
 <h2>Confusion Matrix</h2>
-<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Confusion%20Matrix.png">
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Confusion%20Matrix.png" 
+     style="display: block; margin-left: auto; margin-right: auto;">
+
 <h2>Classification Report on Development Dataset</h2>
-<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png">   
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png" 
+     style="display: block; margin-left: auto; margin-right: auto;">
+
 <h2>Conclusion</h2>
 <p>In this project, I have created a deep learning model that foretells how the stock price of a company will behave by considering major news headlines with an impressive accuracy of 98 percent.</p>
