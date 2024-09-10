@@ -5,7 +5,9 @@
 </a>
 </p>
 <img src="https://www.thestreet.com/.image/t_share/MTcwMDkyODc4NDY5NTM5MTAy/stock-price-lead.jpg" alt="Fake_And_Real_News_Classification" width="970" height="510">
-<p>News headline plays a critical role in determining the stock price behavior that mainly because most of the stockholder makes stock related decisions based on recent news. And that's why the sentiment of the news related to a particular company highly determines whether the stock of that company will grow up, down, or stay the same. To predict this behavior of the stocks I have created a deep learning system that helps to determine how the stock will behave based on the top twenty news headlines.</p>
+<p>News headlines play a crucial role in influencing stock price movements, as many investors base their trading decisions on the latest information. The sentiment expressed in these headlines—whether positive, negative, or neutral—directly affects the perception of a company's future performance, thereby impacting its stock price. Recognizing this, I have developed an advanced deep learning system that analyzes the sentiment of the top twenty news headlines related to a specific company to predict how its stock is likely to behave. By evaluating the emotional tone of the news, the system provides insights into whether a stock will rise, fall, or remain stable, offering valuable guidance to investors.
+
+The deep learning system leverages Natural Language Processing (NLP) to understand and process news sentiment effectively. Trained on a vast dataset of historical stock prices and corresponding news articles, the model identifies complex patterns and relationships between headline sentiment and stock price movements. This predictive capability allows investors to anticipate market shifts with greater accuracy, helping them make more informed decisions. By providing a more comprehensive view of how external news events shape stock prices, this system empowers investors to adopt a more strategic and data-driven approach to trading.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
