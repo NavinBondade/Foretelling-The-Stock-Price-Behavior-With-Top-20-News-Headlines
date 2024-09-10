@@ -28,6 +28,10 @@ The deep learning system leverages Natural Language Processing (NLP) to understa
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable%20In%20Percentage.png">
 </p>    
 <h2>Model Details</h2>
+<h2>Model Details</h2>
+<p align="center">
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20&%20Pictures/model.png" alt="model" >
+</p>
 <p>For the prediction of the stock price behaviors with top twenty news headlines, I have created a deep learning model that is divided into two sections, the first section uses two one dimensional convolutional layers each followed by a max-pooling and dropout layer, and the second section uses three fully connected dense neural network layers. All the layers use RELU as an activation function except the last dense layer that uses the sigmoid activation function to map predicted values to probabilities between 0 and 1.</p>
 <h2>Model Traning</h2>
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/loss-accuracy.png" alt="loss_accuracy">
